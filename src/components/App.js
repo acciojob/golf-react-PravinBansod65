@@ -33,7 +33,7 @@ class App extends Component {
                     posi: this.state.posi + 5,
                   });
                   console.log("moved to right 5px");
-                  console.log(this.state.posi);
+                  console.log(this.state.posi); 
             }
           });
     }
